@@ -18,4 +18,5 @@ fields:
     display_utc: false
   default: now
 pages:
+- content/posts/my-first-post.md
 - content/posts/my-second-post.md
